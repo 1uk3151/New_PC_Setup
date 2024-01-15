@@ -2,7 +2,7 @@
 Setup scripts for joining new PCs to my test lab (testdomain.local). 
 
 Run in the following order:
-1. RunFirst.bat
+1. 1_RunFirst.bat
 2. NamePC.ps1
 3. JoinDomain.ps1
 4. MovePC.ps1
